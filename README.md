@@ -25,3 +25,11 @@ Read [shingo-nakanishi/git-config](https://github.com/shingo-nakanishi/git-confi
 * Make symbolic link
 * Edit ~/.gitconfig
 
+## Set Up vim-config
+
+Read [shingo-nakanishi/vim-config](https://github.com/shingo-nakanishi/vim-config) README.md of
+* Edit ~/.vimrc
+
+## Set UP zsh-config
+Read [shingo-nakanishi/zsh-config](https://github.com/shingo-nakanishi/zsh-config) README.md of
+
