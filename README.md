@@ -1,4 +1,4 @@
-## About This Repo
+## About This Repository
 This is My Mac Config.  
   
 This only have
@@ -6,3 +6,15 @@ This only have
 * [shingo-nakanishi/git-config](https://github.com/shingo-nakanishi/git-config)
 * [shingo-nakanishi/vim-config](https://github.com/shingo-nakanishi/vim-config)
 * [shingo-nakanishi/zsh-config](https://github.com/shingo-nakanishi/zsh-config)
+
+
+## Install
+
+```
+$ cd ~
+$ git clone git@github.com:shingo-nakanishi/my-config.git
+$ cd my-config
+$ git submodule init
+$ git submodule update
+$ git submodule foreach 'git checkout master'
+```
