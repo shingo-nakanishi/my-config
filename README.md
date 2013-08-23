@@ -7,6 +7,7 @@ This only have
 * [shingo-nakanishi/vim-config](https://github.com/shingo-nakanishi/vim-config)
 * [shingo-nakanishi/zsh-config](https://github.com/shingo-nakanishi/zsh-config)
 
+as submodule
 
 ## Install
 
