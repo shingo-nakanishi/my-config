@@ -34,3 +34,9 @@ Read [shingo-nakanishi/vim-config](https://github.com/shingo-nakanishi/vim-confi
 Read [shingo-nakanishi/zsh-config](https://github.com/shingo-nakanishi/zsh-config) README.md of
 * [Edit /etc/zshenv](https://github.com/shingo-nakanishi/zsh-config#edit-etczshenv)
 * [Open New zsh](https://github.com/shingo-nakanishi/zsh-config#open-new-zsh)
+
+## IF You are Me!!
+上記のSet UPをした上で、以下を行うと私と同じ環境になる。
+
+```
+```
