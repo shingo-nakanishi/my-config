@@ -36,7 +36,7 @@ Read [shingo-nakanishi/zsh-config](https://github.com/shingo-nakanishi/zsh-confi
 * [Open New zsh](https://github.com/shingo-nakanishi/zsh-config#open-new-zsh)
 
 ## IF You are Me!!
-上記のSet UPをした上で、以下を行うと私と同じ環境になる。
-
 ```
+$ cd ~/my-config/zsh-config
+$ git ch shingo-nakanishi
 ```
