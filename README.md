@@ -32,4 +32,4 @@ Read [shingo-nakanishi/vim-config](https://github.com/shingo-nakanishi/vim-confi
 
 ## Set UP zsh-config
 Read [shingo-nakanishi/zsh-config](https://github.com/shingo-nakanishi/zsh-config) README.md of
-
+* [shingo-nakanishi/zsh-config](https://github.com/shingo-nakanishi/zsh-config#edit-etczshenv)
