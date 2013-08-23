@@ -20,13 +20,13 @@ $ git submodule update
 $ git submodule foreach 'git checkout master'
 ```
 
-## Set Up git-config
+## Set UP git-config
 
 Read [shingo-nakanishi/git-config](https://github.com/shingo-nakanishi/git-config) README.md of
 * [Make symbolic link](https://github.com/shingo-nakanishi/git-config#make-symbolic-link)
 * [Edit ~/.gitconfig](https://github.com/shingo-nakanishi/git-config#edit-gitconfig)
 
-## Set Up vim-config
+## Set UP vim-config
 
 Read [shingo-nakanishi/vim-config](https://github.com/shingo-nakanishi/vim-config) README.md of
 * [Edit ~/.vimrc](https://github.com/shingo-nakanishi/vim-config#edit-vimrc)
