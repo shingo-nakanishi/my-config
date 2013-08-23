@@ -18,3 +18,10 @@ $ git submodule init
 $ git submodule update
 $ git submodule foreach 'git checkout master'
 ```
+
+## Set Up git-config
+
+Read [shingo-nakanishi/git-config](https://github.com/shingo-nakanishi/git-config) README.md of
+* Make symbolic link
+* Edit ~/.gitconfig
+
