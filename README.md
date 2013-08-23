@@ -36,6 +36,11 @@ Read [shingo-nakanishi/zsh-config](https://github.com/shingo-nakanishi/zsh-confi
 * [Open New zsh](https://github.com/shingo-nakanishi/zsh-config#open-new-zsh)
 
 ## IF You are Me!!
+* Install Xcode
+* Install [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt)
+* Install rbenv
+
+And then
 ```
 $ cd ~/my-config/zsh-config
 $ git ch shingo-nakanishi
