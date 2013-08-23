@@ -22,8 +22,8 @@ $ git submodule foreach 'git checkout master'
 ## Set Up git-config
 
 Read [shingo-nakanishi/git-config](https://github.com/shingo-nakanishi/git-config) README.md of
-* Make symbolic link
-* Edit ~/.gitconfig
+* [Make symbolic link](https://github.com/shingo-nakanishi/git-config#make-symbolic-link)
+* [Edit ~/.gitconfig](https://github.com/shingo-nakanishi/git-config#edit-gitconfig)
 
 ## Set Up vim-config
 
