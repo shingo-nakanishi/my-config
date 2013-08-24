@@ -40,6 +40,7 @@ Read [shingo-nakanishi/zsh-config](https://github.com/shingo-nakanishi/zsh-confi
 * Install Xcode
 * Install [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt)
 * Install rbenv
+* https://github.com/sstephenson/ruby-build
 
 And then
 ```
