@@ -7,6 +7,7 @@ This only have
 * [shingo-nakanishi/vim-config](https://github.com/shingo-nakanishi/vim-config)
 * [shingo-nakanishi/zsh-config](https://github.com/shingo-nakanishi/zsh-config)
 
+as submodule
 
 ## Install
 
@@ -19,13 +20,13 @@ $ git submodule update
 $ git submodule foreach 'git checkout master'
 ```
 
-## Set Up git-config
+## Set UP git-config
 
 Read [shingo-nakanishi/git-config](https://github.com/shingo-nakanishi/git-config) README.md of
 * [Make symbolic link](https://github.com/shingo-nakanishi/git-config#make-symbolic-link)
 * [Edit ~/.gitconfig](https://github.com/shingo-nakanishi/git-config#edit-gitconfig)
 
-## Set Up vim-config
+## Set UP vim-config
 
 Read [shingo-nakanishi/vim-config](https://github.com/shingo-nakanishi/vim-config) README.md of
 * [Edit ~/.vimrc](https://github.com/shingo-nakanishi/vim-config#edit-vimrc)
@@ -36,7 +37,13 @@ Read [shingo-nakanishi/zsh-config](https://github.com/shingo-nakanishi/zsh-confi
 * [Open New zsh](https://github.com/shingo-nakanishi/zsh-config#open-new-zsh)
 
 ## IF You are Me!!
-上記のSet UPをした上で、以下を行うと私と同じ環境になる。
+* Install Xcode
+* Install [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt)
+* Install rbenv
+* https://github.com/sstephenson/ruby-build
 
+And then
 ```
+$ cd ~/my-config/zsh-config
+$ git ch shingo-nakanishi
 ```
